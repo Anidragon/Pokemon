@@ -58,7 +58,8 @@ public class generatePokemon {
 		}
 	}
 	
-	public void generateStats(int level);
+	public void generateStats(int level) {
+	}
 	
 	
 	
